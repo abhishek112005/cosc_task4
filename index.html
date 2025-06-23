@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Find Real Time Weather</h2>
+        <p>Enter a city name and get the current weather</p>
+        <input type="text" placeholder="Enter city name" id="city-name">
+        <button id="gt-btn">Get Weather</button>
+    </div>
+
+    <div id="weather-info" class="hidden">
+        <h2 id="city-output"></h2>
+        <p id="temp"></p>
+        <p id="humidity"></p>
+        <p id="desc"></p>
+    </div>
+
+    <p id="error-msg" class="hidden">
+        City not found!
+    </p>
+
+    <script src="./script.js"></script>
+</body>
+</html>
