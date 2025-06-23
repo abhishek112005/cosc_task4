@@ -14,8 +14,3 @@ This is a simple weather dashboard web application that fetches **real-time weat
 - ☁️ Get a short **weather description** (e.g., Sunny, Cloudy)
 - ❗ Error message if city is not found
 
-- weather-app/
-├── index.html     → Main webpage
-├── style.css      → Styling
-├── script.js      → JavaScript logic
-└── README.md      → Documentation
