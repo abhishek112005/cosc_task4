@@ -50,4 +50,9 @@ Install the Live Server extension
 
 Right-click index.html → Select “Open with Live Server”
 
+OUTPUT SCREENSHOT:
+
+![weather_op](https://github.com/user-attachments/assets/f8cb1570-acb3-426f-adaf-8b7fcd79fac8)
+CREENSHOT:
+
 
