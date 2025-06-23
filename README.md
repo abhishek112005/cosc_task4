@@ -16,7 +16,8 @@ This is a simple weather dashboard web application that fetches **real-time weat
 
 ## How to Run This App Locally
 
-### 1. Clone the Repository
+
+1. Clone the repo
 
 ```bash
 git clone https://github.com/abhishek112005/cosc_task4.git
