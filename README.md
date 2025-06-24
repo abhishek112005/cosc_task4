@@ -54,7 +54,7 @@ Right-click index.html → Select “Open with Live Server”
 
 OUTPUT SCREENSHOT:
 
-![weather_op](https://github.com/user-attachments/assets/f8cb1570-acb3-426f-adaf-8b7fcd79fac8)
-CREENSHOT:
+![weather_op](https://github.com/user-attachments/assets/2952f347-bbff-4966-b436-8ac0c663ee9a)
+
 
 
