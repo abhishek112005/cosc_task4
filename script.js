@@ -8,8 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const errmsg = document.getElementById("error-msg");
     const humidity = document.getElementById("humidity");
 
-    const API_KEY = "201e6d9fe39b5262d0c6237d65ccc5d5";
-
     getbtn.addEventListener('click', async () => {
         const cityN = cityInput.value.trim();
         if (!cityN) return;
